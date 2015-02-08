@@ -2,7 +2,6 @@
 ## that can allow the storage of the matrix information itself
 ## as well as retrieving the matrix and the inverse of the matrix
 ## The inverse of the matrix would be solved by the cacheSolve function
-##Purpose is to demonstrate lexical scoping
 
 ## makeCacheMatrix creates a storage structure for a matrix
 ## with additional get function to retrieve matrix value
